@@ -28,4 +28,4 @@ Explain the idea and include as much additional details as possible:
 
 ### Backwards compatibility
 
-Please note that maintaining backwards compatibility is important and any changes that require new major version might be postponed untill there are enough changes for a new major release.
+Please note that maintaining backwards compatibility is important and any changes that require new major version might be postponed until there are enough changes for a new major release.
